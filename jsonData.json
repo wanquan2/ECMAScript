@@ -1,0 +1,13 @@
+{
+    "name":"json数据",
+    "data":{
+        "code":200,
+        "list":[
+            {
+                "id":1,
+                "title":"promise",
+                "contrnt":"我是promise"
+            }
+        ]
+    }
+}
